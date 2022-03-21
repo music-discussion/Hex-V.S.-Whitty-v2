@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kill0000" x="226" y="721" width="150" height="206"/>
+	<SubTexture name="live0000" x="1853" y="934" width="149" height="162"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+TUTORIAL ON HOW TO ADD CUSTOM SONGS: 
+
+VARIABLES:
+{songname} will be the name of your stuff. Just imagine it replaced.
+Always exclude quotation marks.
+
+Step 1: Open "songs" folder.
+Step 2: Create a folder. Make it lowercase using only letters.
+Step 3: Inside the folder, put your song in .ogg format. Call it "Inst.ogg".
+
+So it should be like this:
+
+"assets/customsongs/songs/{songname}/Inst.ogg"
+
+If its correct, continue:
+
+Step 4: Open "songsList.txt". In it, type this "{songname}:random#:randomCharacterName".
+As the random suggests, say I want to add Headache from garcello. So I do, "headache:69:garcello".
+
+For each new song make another line.
+
+When you have a lot of songs, it may be looking like this: 
+
+ron:7:ron
+smiler:7:wtf
+quartsrevenge:7:quarter
+slices:7:italianer 
+
+CONGRATULATIONS! You now know how to add custom songs! Go crazy!
